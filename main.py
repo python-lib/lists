@@ -4,6 +4,7 @@ from number_of_letters import words
 from common_data import common_data
 from removal_of_indexes import nfl_teams
 from only_odds import only_odds
+from three_random_numbers import three_random_numbers
 
 if __name__ == '__main__':
     print(sums([1, -9, 2, 4, 10, -23]))
